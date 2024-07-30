@@ -1,2 +1,2 @@
 # BTS-E-technology-_Website
-"A one-stop solution for IVR systems, FreePBX, call centers, and IT hardware like laptops and desktops. We provide expert services, installations, and support to optimize your business communications and technology infrastructure."
+"This demo website illustrates our services in IVR systems, FreePBX, call centers, and IT hardware solutions like laptops and desktops. Explore our offerings and see how we can support and enhance your business's communication and technology needs."
